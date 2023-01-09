@@ -97,3 +97,12 @@ INSERT INTO Genre(libelle)
 VALUES('Yaoi');
 INSERT INTO Genre(libelle)
 VALUES('Yuri');
+
+-- VALUES TABLE Anime
+
+INSERT INTO Anime(nom_en, nom_jp, annee_sortie, note, statu)
+VALUES ('Hunter x Hunter', 'Hanta × Hanta', '1999/10/16', 20, 'Fini');
+INSERT INTO Anime(nom_en, nom_jp, annee_sortie, note, statu)
+VALUES ('Sword Art Online', 'Sodo Ato Onrain', '2012/07/08', 20, 'Fini');
+INSERT INTO Anime(nom_en, nom_jp, annee_sortie, note, statu)
+VALUES ('L''attaque des Titans', 'Shingeki no Kyojin', '2013/4/7', 20, 'A venir');
