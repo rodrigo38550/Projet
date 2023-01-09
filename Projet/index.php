@@ -5,7 +5,7 @@
       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
   </head>
   <main class="main">
-    <title>N/A</title>
+    <title>Acceuil</title>
     <body>
       <div id="home">
         <div class="container">
