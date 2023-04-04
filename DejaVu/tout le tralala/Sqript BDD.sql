@@ -5,9 +5,9 @@ CREATE TABLE Genre(
 );
 
 CREATE TABLE Anime_Genre(
-    id_anime INT(4),
-    id_genre INT(2)
-);
+    nom_en_anime VARCHAR(100),
+    libelle__genre VARCHAR(25)
+); 
 
 CREATE TABLE Anime(
     id INT(4) NOT NULL AUTO_INCREMENT,
